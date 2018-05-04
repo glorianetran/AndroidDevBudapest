@@ -1,3 +1,3 @@
 # WakeUp
 
-### Final Project for Android Dev 
+Final Project for Android Dev 
