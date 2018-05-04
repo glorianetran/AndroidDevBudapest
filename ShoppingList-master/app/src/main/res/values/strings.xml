@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="$">$</string>
+    <string name="price">Total Price: $</string>
+    <string name="Food">Food</string>
+    <string name="electronic">Electronic</string>
+    <string name="clothing">Clothing</string>
+    <string name="random">Miscellaneous</string>
+    <string name="enterName">Please enter an item name.</string>
+    <string name="enterPrice">Please enter a price.</string>
+    <string name="itemPrice">Price Item</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete">Delete</string>
+    <string name="item_type">Item Type</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="item_description">Item Description</string>
+    <string name="already_purchased">Already Purchased</string>
+    <string name="add_edited_item">Add Edited Item</string>
+    <string name="item_name">Item name</string>
+    <string name="item_name2">Item name</string>
+    <string name="item_type2">Item Type</string>
+    <string name="estimated_price2">Estimated Price</string>
+    <string name="item_description2">Item Description</string>
+    <string name="already_purchased2">Already Purchased</string>
+    <string name="add_item2">Add Item</string>
+    <string name="bread">bread</string>
+    <string name="purchased">Purchased</string>
+    <string name="delete2">DELETE</string>
+    <string name="item_details">Item Details</string>
+
+    <string-array name="item_array">
+        <item>Food</item>
+        <item>Electronic</item>
+        <item>Clothing</item>
+        <item>Miscellaneous</item>
+    </string-array>
+</resources>

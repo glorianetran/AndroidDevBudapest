@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="flag">FLAG</string>
+    <string name="field">FIELD</string>
+    <string name="restart">Restart</string>
+    <string name="hitMine">You hit a mine!</string>
+    <string name="win">Amazing, you won!</string>
+    <string name="notMine">You flagged an area that is not a mine!</string>
+    <string name="playAgain">Play again</string>
+</resources>
