@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherInfo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="addCity">Add city</string>
+    <string name="enter">Enter</string>
+    <string name="cancel">Cancel</string>
+    <string name="cityDialog">" must implement AddCityDialogListener"</string>
+    <string name="author">The author of this application is Gloriane Tran</string>
+    <string name="dialog">dialog</string>
+    <string name="enter_a_city_name">Enter a city name</string>
+    <string name="description">Description</string>
+    <string name="android_studio">Android Studio</string>
+</resources>
